@@ -10,6 +10,33 @@ footer, header, hgroup, menu, nav, section{
     display: block;
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #114ccc ;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #00277a;
+  color: white;
+}
+
 body {
     line-height: 1;
 }
